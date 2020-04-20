@@ -1,0 +1,15 @@
+{
+  "name": "ts-unimplemented",
+  "version": "0.0.0",
+  "keywords": [
+    "bottom type",
+    "typescript",
+    "unimplemented",
+    "unreachable"
+  ],
+  "repository": "LinusU/ts-unimplemented",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  }
+}
