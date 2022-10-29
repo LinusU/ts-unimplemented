@@ -23,7 +23,7 @@ npm install --save ts-unimplemented
 ## Usage
 
 ```typescript
-import unimplemented = require('ts-unimplemented')
+import unimplemented from 'ts-unimplemented'
 
 // Say we have an interface Foo:
 interface Foo {

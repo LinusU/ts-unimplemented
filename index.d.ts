@@ -1,2 +1,1 @@
-declare function unimplemented (): never
-export = unimplemented
+export default function unimplemented (): never
